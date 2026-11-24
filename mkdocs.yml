@@ -3,6 +3,7 @@ site_description: Учебная документация по проверке 
 site_author: "Горячев Владислав Павлович"
 repo_name: 11l13n/devops-docs
 repo_url: https://github.com/11l13n/devops-docs
+edit_uri: edit/main/docs/
 theme:
   name: mkdocs
   locale: ru
